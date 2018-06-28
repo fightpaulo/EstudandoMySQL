@@ -1,0 +1,6 @@
+Processos de Modelagem
+- Modelagem Conceitual: primeira fase da modelagem. Levantamento de requisitos, possíveis tabelas. Independe do SGBD.
+
+- Modelagem Lógica: segunda fase da modelagem. Envolve o DER (diagrama entidade relacionamento) - BrModelo. Independe do SGBD
+
+- Modelagem Física: detalhamento das estruturas que serão guardados no banco -> tabelas, campos, tipos de valores. Script do Banco

@@ -1,0 +1,13 @@
+Caracteres literais
+- char: tamanho não varia
+- varchar: tamanho varia de acordo com o valor inserido
+
+Números
+- float: números reais -> float (10, 2): 10 algarismos no total sendo 2 dois deles depois da vírgula.
+- int: números inteiros -> máx. suportado: 10 dígitos
+
+Fotos e Documentos
+- blob 
+ 
+Textos extentos
+- text
