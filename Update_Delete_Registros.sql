@@ -5,3 +5,6 @@ SELECT * FROM CLIENTE;
 UPDATE CLIENTE
 SET EMAIL = 'cibele_cristina@gmail.com'
 WHERE NOME = 'Cibele';
+
+DELETE FROM CLIENTE
+WHERE NOME = 'Ana';
